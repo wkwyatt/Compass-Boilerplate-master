@@ -1,4 +1,4 @@
-# Require any additional compass plugins here.
+cd # Require any additional compass plugins here.
 
 #Folder settings
 relative_assets = true      #because we're not working from the root
